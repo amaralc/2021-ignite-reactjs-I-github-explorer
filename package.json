@@ -1,0 +1,12 @@
+{
+  "name": "ignite-01-github-explorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/amaralc/ignite-01-github-explorer.git",
+  "author": "amaralc <amaral.calil@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
